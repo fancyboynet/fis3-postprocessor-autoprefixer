@@ -1,5 +1,5 @@
 {
-  "name": "fis3-postprocessor-autoprefixer",
+  "name": "fis3-postprocessor-autoprefixer-6.x",
   "version": "1.0.2",
   "description": "fis3 plugin for css prefixer, use autoprefixer",
   "main": "index.js",
