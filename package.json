@@ -1,6 +1,6 @@
 {
-  "name": "fis3-postprocessor-autoprefixer-6.x",
-  "version": "1.0.2",
+  "name": "fis3-postprocessor-autoprefixer",
+  "version": "1.0.3",
   "description": "fis3 plugin for css prefixer, use autoprefixer",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/guananddu/fis3-postprocessor-autoprefixer#readme",
   "dependencies": {
-    "autoprefixer": "^6.3.1",
-    "postcss": "^5.0.14"
+    "autoprefixer": "^6.4.1",
+    "postcss": "^5.2.0"
   }
 }
