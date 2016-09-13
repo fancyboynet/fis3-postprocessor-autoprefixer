@@ -9,6 +9,6 @@ fis3 plugin for css prefixer, use autoprefixer
 
     fis.match('**.css', {
         postprocessor: fis.plugin('autoprefixer', {
-            "browsers": ["last 2 versions", "Android >= 4.0", "UCAndroid"]
+            "browsers": ["last 2 versions", "Android >= 4.0"]
         })
     });
